@@ -52,7 +52,7 @@ python3 facedetect.py /home/vinay/Desktop/TestImgs/*.jpg
 
 ## Some extras:
 * If the detector is detecting too many false faces then try to increase ``` minNeighbors=3``` to ```minNeighbors=4 or 5``` in facedetect.py.
-* Alternatively, you can also increase ```scaleFactor=1.1`` upto ```scaleFactor=1.3``` in the facedetect.py file.
+* Alternatively, you can also increase ```scaleFactor=1.1``` upto ```scaleFactor=1.3``` in the facedetect.py file.
 
 ## License
 
