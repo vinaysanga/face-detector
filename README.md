@@ -1,7 +1,7 @@
 # face-detector
 
 This is a Python script for detecting the faces present in an image. It is just a wrapper over the haar classifier from OpenCV library.
-The script will detect the faces, crop them up and save them in a folder having name matching the image-name.
+The script will detect the faces, crop them up and save them in a folder having name same as the image-name.
 
 ## Getting Started
 
